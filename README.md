@@ -11,7 +11,8 @@ jika ingin memakai nya ikutin tutorial ini<br>
 7. lalu kalian import saja dengan nama file "uaspwl2067" file nya ada di dalam project <br>
 8. jika sudah semua, kalian buka browser ketik " localhost/uaspwl2067"<br>
 
-
+<br>
 catatan :
+
 di dalam database gunakan nama tabel sendiri , jika tidak ingin terkena duplikat atau ketahuan oleh dosen
 makasih!!!
