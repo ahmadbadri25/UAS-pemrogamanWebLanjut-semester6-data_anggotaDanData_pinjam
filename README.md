@@ -1,6 +1,4 @@
 # UAS-pemrogamanWebLanjut-semester6-data_anggotaDanData_pinjam
-
-
 <img src="https://github.com/ahmadbadri25/dokumentasi/blob/0864016c89277fd432eef01bd15abd52606e7fe4/uaspwl.png" alt="">
 ini adalah tampilannya dasboard dari aplikasi ini <br>
 jika ingin memakai nya ikutin tutorial ini<br>
