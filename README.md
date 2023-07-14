@@ -7,7 +7,7 @@ jika ingin memakai nya ikutin tutorial ini<br>
 3. taruh file nya disitu<br>
 4. buka xampp aktifkan apache dan mysqlnya<br>
 5. lalu buka di browser ketik "localhost/phpmyadmin/"<br>
-6. buat database baru dengan nama "uaspwl" (ketentuan ada di no2 untuk pembuatan nama)<br>
+6. buat database baru dengan nama "uaspwl2067" (ketentuan ada di no2 untuk pembuatan nama)<br>
 7. lalu kalian import saja dengan nama file "uaspwl2067" file nya ada di dalam project <br>
 8. jika sudah semua, kalian buka browser ketik " localhost/uaspwl2067"<br>
 
